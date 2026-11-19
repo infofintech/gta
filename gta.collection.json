@@ -1,14 +1,14 @@
 {
-    "iii": {
-        "title": "GTA III (Liberty City)",
-        "language": {
-            "RU": "GTA III (Либерти-Сити)"
-        }
-    },
-    "iv": {
+   "iv": {
         "title": "GTA IV (Liberty City)",
         "language": {
             "RU": "GTA IV (Либерти-Сити)"
+        }
+    },
+    "lc": {
+        "title": "GTA III (Liberty City)",
+        "language": {
+            "RU": "GTA III (Либерти-Сити)"
         }
     },
     "sa": {
