@@ -1,87 +1,38 @@
 {
-    "000": {
-        "title": "Jean Béraud's La Belle Époque",
+    "iii": {
+        "title": "GTA III (Liberty City)",
         "language": {
-            "AE": "عصر جان فيرلا بيل",
-            "BE": "La Belle Époque de Jean Béraud",
-            "BY": "\"Выдатная эпоха\" Жана Беро",
-            "CH": "La Belle Époque Europeene",
-            "CN": "让·贝罗 (Jean Béraud) 的画作《美好时代》",
-            "CY": "Όμορφη Εποχή του Ζαν Μπερό",
-            "FR": "La Belle Époque de Jean Béraud",
-            "GR": "Όμορφη Εποχή του Ζαν Μπερό",
-            "IQ": "عصر جان فيرلا بيل",
-            "IR": "عصر جان فيرلا بيل",
-            "IT": "Bella Epoque di Jean Beraud",
-            "JP": "ジャン・ベローの絵画「ラ・ベル・エポック」",
-            "KP": "Jean Béraud의 그림, 벨 에포크 시대",
-            "KR": "Jean Béraud의 그림, 벨 에포크 시대",
-            "KW": "عصر جان فيرلا بيل",
-            "MC": "La Belle Époque de Jean Béraud",
-            "QA": "عصر جان فيرلا بيل",
-            "RR": "„Доброзрачная лета“ Жана Беро",
-            "RU": "«Прекрасная эпоха» Жана Беро",
-            "SA": "عصر جان فيرلا بيل",
-            "SM": "Bella Epoque di Jean Beraud",
-            "SP": "La Belle Époque Europeene",
-            "TW": "尚貝羅 (Jean Béraud) 的畫作《美好年代》",
-            "UA": "«Прекрасна епоха» Жана Беро",
-            "VA": "La Belle Époque Europeene"
+            "RU": "GTA III (Либерти-Сити)"
         }
     },
-    "001": {
-        "title": "The Coronation of Queen Victoria",
+    "iv": {
+        "title": "GTA IV (Liberty City)",
         "language": {
-            "AE": "حفل تاج الملكة فيكتوريا",
-            "BE": "Couronnement de la reine Victoria",
-            "BY": "Каранацыя Каралевы Вікторыі",
-            "CH": "La Belle Époque Britannique",
-            "CN": "英国维多利亚女王的皇家加冕典礼",
-            "CY": "Στέψη της Βασίλισσας Βικτωρίας",
-            "FR": "Couronnement de la reine Victoria",
-            "GR": "Στέψη της Βασίλισσας Βικτωρίας",
-            "IQ": "حفل تاج الملكة فيكتوريا",
-            "IR": "حفل تاج الملكة فيكتوريا",
-            "IT": "Incoronazione della regina Vittoria",
-            "JP": "イギリスのヴィクトリア女王の戴冠式",
-            "KP": "영국 빅토리아 여왕의 대관식 행사",
-            "KR": "영국 빅토리아 여왕의 대관식 행사",
-            "KW": "حفل تاج الملكة فيكتوريا",
-            "MC": "Couronnement de la reine Victoria",
-            "QA": "حفل تاج الملكة فيكتوريا",
-            "RR": "Венчание на царство королевы Виктории",
-            "RU": "Коронация Королевы Виктории",
-            "SA": "حفل تاج الملكة فيكتوريا",
-            "SM": "Incoronazione della regina Vittoria",
-            "SP": "La Belle Époque Britannique",
-            "TW": "英國維多利亞女王的皇家加冕典禮",
-            "UA": "Коронація Королеви Вікторії",
-            "VA": "La Belle Époque Britannique"
+            "RU": "GTA IV (Либерти-Сити)"
         }
     },
-    "002": {
-        "title": "Pouchkine's Eugène Onéguine",
+    "sa": {
+        "title": "GTA: San Andreas (San Andreas)",
         "language": {
-            "AE": "شعر بوشكين",
-            "BY": "А.С. Пушкін «Яўген Анегін»",
-            "CH": "La Belle Époque en Russe",
-            "CN": "亚历山大·普希金的小说《叶甫根尼·奥涅金》",
-            "CY": "Ο Ευγένιος Ονέγκιν του Πούσκιν",
-            "GR": "Ο Ευγένιος Ονέγκιν του Πούσκιν",
-            "IQ": "شعر بوشكين",
-            "IR": "شعر بوشكين",
-            "JP": "アレクサンドル・プーシキン作『エフゲニー・オネーギン』",
-            "KP": "알렉산더 푸시킨의 소설 예브게니 오네긴",
-            "KR": "알렉산더 푸시킨의 소설 예브게니 오네긴",
-            "KW": "شعر بوشكين",
-            "QA": "شعر بوشكين",
-            "RR": "А.С. Пушкинъ „Еѵгенїй Онегинъ“",
-            "RU": "А.С. Пушкин «Евгений Онегин»",
-            "SA": "شعر بوشكين",
-            "SP": "La Belle Époque en Russe",
-            "TW": "亞歷山大‧普希金的小說《葉甫根尼‧奧涅金》",
-            "UA": "А.С. Пушкін «Євгеній Онєгін»",
-            "VA": "La Belle Époque en Russe"
+            "RU": "GTA: San Andreas (Сан-Андреас)"
+        }
+    },
+    "v": {
+        "title": "GTA V (San Andreas)",
+        "language": {
+            "RU": "GTA V (Сан-Андреас)"
+        }
+    },
+    "vc": {
+        "title": "GTA: Vice City (Vice City)",
+        "language": {
+            "RU": "GTA: Vice City (Вайс-Сити)"
+        }
+    },
+    "vi": {
+        "title": "GTA VI (Vice City)",
+        "language": {
+            "RU": "GTA VI (Вайс-Сити)"
         }
     }
 }
